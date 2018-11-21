@@ -1,0 +1,1 @@
+Pour exécuter le projet se placer à la racine du projet (contenant le répertoire "/classes"), puis lancer le script "run.bat" sous Windows et "run.sh" sous Unix.
